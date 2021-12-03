@@ -1,0 +1,21 @@
+C:\Users\fares\source\repos\Gate of research\Gate of research\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fares\source\repos\Gate of research\Gate of research\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fares\source\repos\Gate of research\Gate of research\bin\Debug\netcoreapp3.1\Gate of research.exe
+C:\Users\fares\source\repos\Gate of research\Gate of research\bin\Debug\netcoreapp3.1\Gate of research.deps.json
+C:\Users\fares\source\repos\Gate of research\Gate of research\bin\Debug\netcoreapp3.1\Gate of research.runtimeconfig.json
+C:\Users\fares\source\repos\Gate of research\Gate of research\bin\Debug\netcoreapp3.1\Gate of research.runtimeconfig.dev.json
+C:\Users\fares\source\repos\Gate of research\Gate of research\bin\Debug\netcoreapp3.1\Gate of research.dll
+C:\Users\fares\source\repos\Gate of research\Gate of research\bin\Debug\netcoreapp3.1\Gate of research.pdb
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.AssemblyInfo.cs
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\staticwebassets\Gate of research.StaticWebAssets.Manifest.cache
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\staticwebassets\Gate of research.StaticWebAssets.xml
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\scopedcss\bundle\Gate of research.styles.css
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.RazorTargetAssemblyInfo.cache
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.dll
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.pdb
+C:\Users\fares\source\repos\Gate of research\Gate of research\obj\Debug\netcoreapp3.1\Gate of research.genruntimeconfig.cache
